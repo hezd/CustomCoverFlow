@@ -4,28 +4,28 @@
     api-level="19"
     density="xhdpi"
     format="7"
-    timestamp="95769524969958" >
+    timestamp="112760398677721" >
 
     <task
         name="javac"
-        duration="90" />
+        duration="180" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="9" />
+        duration="92" />
     <task
         name="verifier"
-        duration="1" />
+        duration="51" />
 
     <artifact
-        location="D:\Android\demo\FancyCoverFlow-master\samples\build\outputs\apk\samples-debug.apk"
+        location="D:\Android\github\CustomCoverFlow\samples\build\outputs\apk\samples-debug.apk"
         type="MAIN" />
 
-    <build timestamp="95769524969958" >
+    <build timestamp="112760398677721" >
         <artifact
-            location="D:\Android\demo\FancyCoverFlow-master\samples\build\outputs\apk\samples-debug.apk"
+            location="D:\Android\github\CustomCoverFlow\samples\build\outputs\apk\samples-debug.apk"
             type="MAIN" />
     </build>
 

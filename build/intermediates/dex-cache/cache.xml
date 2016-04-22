@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="D:\Android\github\CustomCoverFlow\samples\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b6660c2ba8f38bfb0588ea792b589fe58e168ee0">
+        <dex dex="D:\Android\github\CustomCoverFlow\samples\build\intermediates\pre-dexed\debug\instant-run-bootstrap_715be1c0e8a63f71b79c3de83e470cae80a76810.jar" />
+    </item>
+    <item
+        jar="D:\Android\github\CustomCoverFlow\samples\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="88d30c0498a42a94e37ae2344eb948a39d596771">
+        <dex dex="D:\Android\github\CustomCoverFlow\samples\build\intermediates\pre-dexed\debug\instant-run_962358ad080b4107cdbcfd359c9606931c155535.jar" />
+    </item>
+
+</items>

@@ -21,6 +21,8 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.*;
 import android.util.AttributeSet;
+import android.view.KeyEvent;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Transformation;
@@ -377,5 +379,43 @@ public class FancyCoverFlow extends Gallery {
         public LayoutParams(ViewGroup.LayoutParams source) {
             super(source);
         }
+    }
+
+    @Override
+
+
+
+
+    public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX,
+
+                           float velocityY) {
+
+        // TODO Auto-generated method stub
+
+        int kEvent;
+
+        if(isScrollingLeft(e1, e2)){ //Check if scrolling left
+
+            kEvent = KeyEvent.KEYCODE_DPAD_LEFT;
+
+        }
+
+        else{ //Otherwise scrolling right
+
+            kEvent = KeyEvent.KEYCODE_DPAD_RIGHT;
+
+        }
+
+        onKeyDown(kEvent, null);
+
+        return true;
+
+
+    }
+
+    private boolean isScrollingLeft(MotionEvent e1, MotionEvent e2){
+
+        return e2.getX() > e1.getX();
+
     }
 }

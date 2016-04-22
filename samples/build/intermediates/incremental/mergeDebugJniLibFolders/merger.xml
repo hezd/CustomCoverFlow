@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Android\demo\FancyCoverFlow-master\samples\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Android\demo\FancyCoverFlow-master\samples\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Android\github\CustomCoverFlow\samples\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Android\github\CustomCoverFlow\samples\src\debug\jniLibs"/></dataSet></merger>

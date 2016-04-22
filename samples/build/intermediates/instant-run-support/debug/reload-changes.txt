@@ -1,2 +1,0 @@
-CHANGED,D:\Android\demo\FancyCoverFlow-master\samples\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\at\technikum\mti\fancycoverflow\samples\example\ViewGroupExample$override.class
-CHANGED,D:\Android\demo\FancyCoverFlow-master\samples\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
