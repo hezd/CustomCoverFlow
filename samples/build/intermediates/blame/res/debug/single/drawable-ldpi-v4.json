@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\github\\CustomCoverFlow\\samples\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

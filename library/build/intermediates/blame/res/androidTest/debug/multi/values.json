@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\Android\\demo\\FancyCoverFlow-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 51,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 51,
+                        "endOffset": 487
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Android\\github\\CustomCoverFlow\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 51,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 51,
+                        "endOffset": 487
+                    }
+                }
+            }
+        ]
+    }
+]

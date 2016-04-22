@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\Android\github\CustomCoverFlow\samples\build\intermediates\exploded-aar\CustomCoverFlow\library\unspecified\assets"/></dataSet><dataSet config="main"><source path="D:\Android\github\CustomCoverFlow\samples\assets"/><source path="D:\Android\github\CustomCoverFlow\samples\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Android\github\CustomCoverFlow\samples\src\debug\assets"/></dataSet></merger>

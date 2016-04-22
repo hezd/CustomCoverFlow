@@ -1,0 +1,316 @@
+[
+    {
+        "outputFile": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 57,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 58,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 58,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 74,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 74,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 64,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 64,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 70,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 70,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 88,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 88,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 51,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 51,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 68,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "D:\\Android\\demo\\FancyCoverFlow-master\\samples\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 68,
+                        "endOffset": 120
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Android\\github\\CustomCoverFlow\\samples\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 57,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 58,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 58,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 74,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 74,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 64,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 64,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 70,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 70,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 88,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 88,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 51,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 51,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 68,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "D:\\Android\\github\\CustomCoverFlow\\samples\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 68,
+                        "endOffset": 120
+                    }
+                }
+            }
+        ]
+    }
+]
