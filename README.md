@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FancyCoverFlow
 ==============
 
@@ -28,3 +29,9 @@ You can also inflate FancyCoverFlow from XML:
 	        fcf:unselectedAlpha="0.3"
         	fcf:unselectedSaturation="0.0"
 	        fcf:unselectedScale="0.4" />
+=======
+# CustomCoverFlow
+
+基于https://github.com/davidschreiber/FancyCoverFlow 做了相关修改 
+第二个效果为了实现一个带有文字滑动过程中有缩放效果的画廊
+>>>>>>> 8599e96a75e8241b4754133ff29b7d890850c000
