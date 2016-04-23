@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\android_demo\CustomCoverFlow\library\res"/><source path="E:\android_demo\CustomCoverFlow\library\build\generated\res\rs\release"/><source path="E:\android_demo\CustomCoverFlow\library\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\android_demo\CustomCoverFlow\library\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\android_demo\CustomCoverFlow\library\res"><file path="E:\android_demo\CustomCoverFlow\library\res\values\attr.xml" qualifiers=""><declare-styleable name="FancyCoverFlow">
+        <attr format="float" name="unselectedAlpha"/>
+        <attr format="float" name="unselectedSaturation"/>
+        <attr format="float" name="unselectedScale"/>
+        <attr format="integer" name="maxRotation"/>
+        <attr format="float" name="scaleDownGravity"/>
+        <attr format="integer" name="actionDistance">
+            <enum name="auto" value="2147483647"/>
+        </attr>
+    </declare-styleable></file><file path="E:\android_demo\CustomCoverFlow\library\res\values\strings.xml" qualifiers=""><string name="app_name">FancyCoverFlow</string></file></source><source path="E:\android_demo\CustomCoverFlow\library\build\generated\res\rs\release"/><source path="E:\android_demo\CustomCoverFlow\library\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\android_demo\CustomCoverFlow\library\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FancyCoverFlow"><attr format="float" name="unselectedAlpha"/><attr format="float" name="unselectedSaturation"/><attr format="float" name="unselectedScale"/><attr format="integer" name="maxRotation"/><attr format="float" name="scaleDownGravity"/><attr format="integer" name="actionDistance"><enum name="auto" value="2147483647"/></attr></declare-styleable></configuration></mergedItems></merger>

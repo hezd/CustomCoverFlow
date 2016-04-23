@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android_demo\\CustomCoverFlow\\samples\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\android_demo\\CustomCoverFlow\\samples\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\android_demo\\CustomCoverFlow\\samples\\build\\intermediates\\res\\merged\\debug\\layout\\layout_inflate_example.xml",
+        "source": "E:\\android_demo\\CustomCoverFlow\\samples\\res\\layout\\layout_inflate_example.xml"
+    }
+]

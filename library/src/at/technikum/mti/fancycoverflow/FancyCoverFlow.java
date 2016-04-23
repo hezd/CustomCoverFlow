@@ -391,24 +391,24 @@ public class FancyCoverFlow extends Gallery {
                            float velocityY) {
 
         // TODO Auto-generated method stub
-
-        int kEvent;
-
-        if(isScrollingLeft(e1, e2)){ //Check if scrolling left
-
-            kEvent = KeyEvent.KEYCODE_DPAD_LEFT;
-
-        }
-
-        else{ //Otherwise scrolling right
-
-            kEvent = KeyEvent.KEYCODE_DPAD_RIGHT;
-
-        }
-
-        onKeyDown(kEvent, null);
-
-        return true;
+        return super.onFling(e1,e2,velocityX>0?400:-400,velocityY);
+//        int kEvent;
+//
+//        if(isScrollingLeft(e1, e2)){ //Check if scrolling left
+//
+//            kEvent = KeyEvent.KEYCODE_DPAD_LEFT;
+//
+//        }
+//
+//        else{ //Otherwise scrolling right
+//
+//            kEvent = KeyEvent.KEYCODE_DPAD_RIGHT;
+//
+//        }
+//
+//        onKeyDown(kEvent, null);
+//
+//        return true;
 
 
     }
